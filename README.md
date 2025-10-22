@@ -78,7 +78,7 @@ Portfolio/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ArafatulIslamTamim/Portfolio.git
+git clone [https://github.com/ArafatulIslamTamim/Portfolio.git](https://github.com/ArafatulIslamTamim/Portfolio)
 cd Portfolio
 
 2️⃣ Open the Project
