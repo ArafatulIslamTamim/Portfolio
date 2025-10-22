@@ -52,15 +52,25 @@ It includes sections for:
 
 Portfolio/
 ├── css/
+
 │ └── style.css # Main stylesheet
+
 ├── images/ # All project and logo images
+
 │ ├── logo.png
+
 │ ├── sheba_home_page.png
+
 │ ├── ai-agents.webp
+
 │ ├── blood-bank-management-system.png
+
 │ ├── ransomware detection using deep learning.png
+
 │ └── ...
+
 ├── index.html # Main HTML file
+
 └── README.md # Project documentation
 ---
 
