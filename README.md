@@ -62,7 +62,6 @@ Portfolio/
 │ └── ...
 ├── index.html # Main HTML file
 └── README.md # Project documentation
-
 ---
 
 ## ⚡ Getting Started
